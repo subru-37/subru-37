@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @subru-37
 - 👀 I’m interested in ... learning to code more on python, java, SQL, HTML, CSS, React.js, Vanilla JS
-- 🌱 I’m currently learning ... React.js on udemy (course by Angela Yu)
-- 💞️ I’m looking to collaborate on ... front end web development 
+- 🌱 I’m currently looking to contribute on frontend with React.js frameworks with Javascript
 - 📫 How to reach me ... text me @7356029354
 
 <!---
