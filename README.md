@@ -13,7 +13,7 @@
   
 - 📄 Know about my experiences at my [LinkedIn profile](https://www.linkedin.com/in/subru37/)
   
-- 📃 Download my [My Resume](https://flowcv.com/resume/89taqpsur9)
+- 📃 Download my [My Resume](https://drive.google.com/file/d/1HXcm2Dsd8hCZJv2MtYjyE383ohrdfP3K/view?usp=sharing)
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
