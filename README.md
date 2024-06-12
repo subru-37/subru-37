@@ -5,20 +5,19 @@
   
 - 👯 I’m looking to collaborate on **Exciting Projects**
   
-- 🌱 I’m currently looking to contribute on **Frontend development using React**
+- 🌱 I’m currently looking to contribute on **Full Stack development using React, Node.Js and Django**
   
 - 📫 How to reach me ... text me **@7356029354**
   
-- 💬 Ask me about **Customizing MUI and Forms**
+- 💬 Ask me about **Frontend Development**
   
 - 📄 Know about my experiences at my [LinkedIn profile](https://www.linkedin.com/in/subru37/)
   
-- 📃 Download my [My Resume](https://drive.google.com/file/d/1HXcm2Dsd8hCZJv2MtYjyE383ohrdfP3K/view?usp=sharing)
+- 📃 Download my [My Resume](https://drive.google.com/file/d/13-KbWidD8iAUh3aLlSLoISBdo1VvHUYG/view?usp=sharing)
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://devfolio.co/@Subru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="subru-37" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/subru37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subru-37" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subramani-e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subru-37" height="30" width="40" /></a>
 <a href="https://instagram.com/subru_37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subru_37" height="30" width="40" /></a>
 </p>
 <br>
