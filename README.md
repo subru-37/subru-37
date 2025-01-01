@@ -11,9 +11,9 @@
   
 - 💬 Ask me about **Frontend Development**
   
-- 📄 Know about my experiences at my [LinkedIn profile](https://www.linkedin.com/in/subru37/)
+- 📄 Know about my experiences at my [LinkedIn profile](https://www.linkedin.com/in/subramani-e/)
   
-- 📃 Download my [My Resume](https://drive.google.com/file/d/13-KbWidD8iAUh3aLlSLoISBdo1VvHUYG/view?usp=sharing)
+- 📃 Download my [My Resume](https://drive.google.com/file/d/1MqvCbanuEA2rI6DgSpTZhCC5EB1LM4zM/view?usp=sharing)
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
